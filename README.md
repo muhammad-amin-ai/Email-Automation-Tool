@@ -220,7 +220,7 @@ This project is licensed under the **MIT License** — you're free to use, copy,
 ```
 MIT License
 
-Copyright (c) 2026 Abdullah Amin
+Copyright (c) 2026 Muhammad Amin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -249,6 +249,6 @@ See the full [LICENSE](./LICENSE) file for details.
 
 ### 👤 Author
 
-**Abdullah Amin**
+**Muhammad Amin**
 
 </div>
